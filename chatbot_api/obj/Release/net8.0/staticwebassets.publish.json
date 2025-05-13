@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "OD5X6wAcFswdGhmhd1LpwI45P1UJ9EtujRX/m4RvegI=",
+  "Source": "chatbot_api",
+  "BasePath": "_content/chatbot_api",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

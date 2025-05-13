@@ -1,0 +1,28 @@
+[
+  {
+    "ContainingType": "chatbot_api.Configurations.ChatController",
+    "Method": "Ask",
+    "RelativePath": "api/Chat/ask",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "chatbot_api.DTOs.ChatRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "chatbot_api.Controllers.StatusController",
+    "Method": "GetStatus",
+    "RelativePath": "api/status",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
