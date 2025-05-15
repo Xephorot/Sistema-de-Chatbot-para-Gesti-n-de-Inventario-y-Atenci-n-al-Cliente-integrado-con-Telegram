@@ -1,25 +1,53 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\figue\\source\\repos\\chatbot_api\\",
+  "WorkspaceRootPath": "D:\\Universidad\\Software Project Management\\chatbot_api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\source\\repos\\chatbot_api\\chatbot_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\source\\repos\\chatbot_api\\chatbot_api\\controllers\\telegramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\controllers\\telegramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\source\\repos\\chatbot_api\\chatbot_api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\source\\repos\\chatbot_api\\chatbot_api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|d:\\universidad\\software project management\\chatbot_api\\chatbot_api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\controllers\\chatcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|c:\\users\\figue\\source\\repos\\chatbot_api\\chatbot_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|d:\\universidad\\software project management\\chatbot_api\\chatbot_api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\controllers\\statuscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|d:\\universidad\\software project management\\chatbot_api\\chatbot_api\\controllers\\systemconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\controllers\\systemconfig.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|d:\\universidad\\software project management\\chatbot_api\\chatbot_api\\services\\mongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\services\\mongoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|d:\\universidad\\software project management\\chatbot_api\\chatbot_api\\services\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\services\\telegramservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|d:\\universidad\\software project management\\chatbot_api\\chatbot_api\\services\\companyapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\services\\companyapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|d:\\universidad\\software project management\\chatbot_api\\chatbot_api\\model\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\model\\chatmessage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|d:\\universidad\\software project management\\chatbot_api\\chatbot_api\\dtos\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\dtos\\chatrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|d:\\universidad\\software project management\\chatbot_api\\chatbot_api\\configurations\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\configurations\\mongodbsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|d:\\universidad\\software project management\\chatbot_api\\chatbot_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|d:\\universidad\\software project management\\chatbot_api\\chatbot_api\\controllers\\telegramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\controllers\\telegramcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|d:\\universidad\\software project management\\chatbot_api\\chatbot_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{25C7CB5A-1072-44B3-BED3-E49515AFDC80}|chatbot_api\\chatbot_api.csproj|solutionrelative:chatbot_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
@@ -30,41 +58,131 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 10,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\figue\\source\\repos\\chatbot_api\\chatbot_api\\Program.cs",
-              "RelativeDocumentMoniker": "chatbot_api\\Program.cs",
-              "ToolTip": "C:\\Users\\figue\\source\\repos\\chatbot_api\\chatbot_api\\Program.cs",
-              "RelativeToolTip": "chatbot_api\\Program.cs",
+              "DocumentIndex": 2,
+              "Title": "SystemConfig.json",
+              "DocumentMoniker": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Controllers\\SystemConfig.json",
+              "RelativeDocumentMoniker": "chatbot_api\\Controllers\\SystemConfig.json",
+              "ToolTip": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Controllers\\SystemConfig.json",
+              "RelativeToolTip": "chatbot_api\\Controllers\\SystemConfig.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-15T22:13:02.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MongoService.cs",
+              "DocumentMoniker": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Services\\MongoService.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Services\\MongoService.cs",
+              "ToolTip": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Services\\MongoService.cs",
+              "RelativeToolTip": "chatbot_api\\Services\\MongoService.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:00:30.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TelegramService.cs",
+              "DocumentMoniker": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Services\\TelegramService.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Services\\TelegramService.cs",
+              "ToolTip": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Services\\TelegramService.cs",
+              "RelativeToolTip": "chatbot_api\\Services\\TelegramService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:00:27.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CompanyApiService.cs",
+              "DocumentMoniker": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Services\\CompanyApiService.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Services\\CompanyApiService.cs",
+              "ToolTip": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Services\\CompanyApiService.cs",
+              "RelativeToolTip": "chatbot_api\\Services\\CompanyApiService.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:00:25.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ChatMessage.cs",
+              "DocumentMoniker": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Model\\ChatMessage.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Model\\ChatMessage.cs",
+              "ToolTip": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Model\\ChatMessage.cs",
+              "RelativeToolTip": "chatbot_api\\Model\\ChatMessage.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:00:22.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ChatRequest.cs",
+              "DocumentMoniker": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\DTOs\\ChatRequest.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\DTOs\\ChatRequest.cs",
+              "ToolTip": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\DTOs\\ChatRequest.cs",
+              "RelativeToolTip": "chatbot_api\\DTOs\\ChatRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:00:19.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MongoDbSettings.cs",
+              "DocumentMoniker": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Configurations\\MongoDbSettings.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Configurations\\MongoDbSettings.cs",
+              "ToolTip": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Configurations\\MongoDbSettings.cs",
+              "RelativeToolTip": "chatbot_api\\Configurations\\MongoDbSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T22:00:13.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Program.cs",
+              "RelativeDocumentMoniker": "chatbot_api\\Program.cs",
+              "ToolTip": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Program.cs",
+              "RelativeToolTip": "chatbot_api\\Program.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T18:47:10.328Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 10,
               "Title": "TelegramController.cs",
-              "DocumentMoniker": "C:\\Users\\figue\\source\\repos\\chatbot_api\\chatbot_api\\Controllers\\TelegramController.cs",
+              "DocumentMoniker": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Controllers\\TelegramController.cs",
               "RelativeDocumentMoniker": "chatbot_api\\Controllers\\TelegramController.cs",
-              "ToolTip": "C:\\Users\\figue\\source\\repos\\chatbot_api\\chatbot_api\\Controllers\\TelegramController.cs",
+              "ToolTip": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Controllers\\TelegramController.cs",
               "RelativeToolTip": "chatbot_api\\Controllers\\TelegramController.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-13T18:46:40.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T18:46:40.595Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "StatusController.cs",
-              "DocumentMoniker": "C:\\Users\\figue\\source\\repos\\chatbot_api\\chatbot_api\\Controllers\\StatusController.cs",
+              "DocumentMoniker": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Controllers\\StatusController.cs",
               "RelativeDocumentMoniker": "chatbot_api\\Controllers\\StatusController.cs",
-              "ToolTip": "C:\\Users\\figue\\source\\repos\\chatbot_api\\chatbot_api\\Controllers\\StatusController.cs",
+              "ToolTip": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Controllers\\StatusController.cs",
               "RelativeToolTip": "chatbot_api\\Controllers\\StatusController.cs",
               "ViewState": "AgIAACoAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -73,29 +191,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ChatController.cs",
-              "DocumentMoniker": "C:\\Users\\figue\\source\\repos\\chatbot_api\\chatbot_api\\Controllers\\ChatController.cs",
+              "DocumentMoniker": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Controllers\\ChatController.cs",
               "RelativeDocumentMoniker": "chatbot_api\\Controllers\\ChatController.cs",
-              "ToolTip": "C:\\Users\\figue\\source\\repos\\chatbot_api\\chatbot_api\\Controllers\\ChatController.cs",
+              "ToolTip": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\Controllers\\ChatController.cs",
               "RelativeToolTip": "chatbot_api\\Controllers\\ChatController.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAswBwAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-13T18:46:27.388Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 11,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\figue\\source\\repos\\chatbot_api\\chatbot_api\\appsettings.json",
+              "DocumentMoniker": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\appsettings.json",
               "RelativeDocumentMoniker": "chatbot_api\\appsettings.json",
-              "ToolTip": "C:\\Users\\figue\\source\\repos\\chatbot_api\\chatbot_api\\appsettings.json",
+              "ToolTip": "D:\\Universidad\\Software Project Management\\chatbot_api\\chatbot_api\\appsettings.json",
               "RelativeToolTip": "chatbot_api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-13T18:46:03.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-05-13T18:46:03.449Z"
             }
           ]
         }
